@@ -1,4 +1,4 @@
-# Tableau Assignment - Citi Bike Analytics
+# Tableau Reporting - Citi Bike Analytics
 ![Image of NY bikes](../master/Images/citi-bike-station-bikes.jpg)
 ## Background
 #### The New York Citi Bike Program is the largest bike sharing program in the United States. Generating regular reports for city officials looking to publicize and improve the city program.
